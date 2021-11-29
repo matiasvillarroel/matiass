@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.container{
+     background: pink;
+     width: 100vw;
+     height: 100vw;
+}
+
+#noBtn{
+    position: absolute;
+    /*top: 50%;
+    left: 0%;
+    transform: translate(0%,-50%);*/
+}
